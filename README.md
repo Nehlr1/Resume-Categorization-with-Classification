@@ -9,7 +9,6 @@ This repository contains code and resources for performing resume categorization
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -31,8 +30,8 @@ To use the code in this repository, follow these steps:
    ```bash
    python script.py filepath/
 
-   [!NOTE]
-   Here filepath/ indicates the folder where the resumes ,in pdf format, are located to be reorganised into its respective folder 
+[!NOTE]
+Here filepath/ indicates the folder where the resumes ,in pdf format, are located to be reorganised into its respective folder 
 
 
 ## Usage
@@ -57,7 +56,7 @@ The file structure of this repository is as follows:
 
 3. artifacts/: Directory containing any necessary artifacts or saved models.
 
-4. categorized_resumes.csv: The CSV should have two columns: filename and category
+4. categorized_resumes.csv: The CSV have two columns named filename and category
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Let's make this project better together!
