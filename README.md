@@ -12,7 +12,7 @@ This repository contains code and resources for performing resume categorization
 
 ## Introduction
 
-The task of resume categorization is important for various applications, such as job portals, recruitment agencies, and HR departments. This project explores the use of machine learning algorithms for automatically categorizing resumes into 24 different predefined categories, such as "Teacher," "Designer," "Engineering," etc.
+The task of resume categorization is important for various applications, such as job portals, recruitment agencies, and HR departments. This project explores the use of machine learning algorithms for automatically categorizing resumes into 24 different predefined categories, such as "Teacher," "Designer," and "Engineering," etc.
 
 ## Installation
 
