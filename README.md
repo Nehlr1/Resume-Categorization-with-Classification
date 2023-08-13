@@ -30,8 +30,8 @@ To use the code in this repository, follow these steps:
    ```bash
    python script.py filepath/
 
-[!NOTE]
-Here filepath/ indicates the folder where the resumes ,in pdf format, are located to be reorganised into its respective folder 
+> **Note**
+> Here filepath/ indicates the folder where the resumes ,in pdf format, are located to be reorganised into its respective folder 
 
 
 ## Usage
